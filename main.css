@@ -1,0 +1,69 @@
+body {
+    font-family: 'Indie Flower';
+    background-image: url("https://accroalamode.com/wp-content/uploads/2018/08/basketball-hardwood-floor-background-luxury-wood-hd-wallpapers-group-91-of-basketball-hardwood-floor-background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 60px;
+}
+
+
+.jumbotron {
+    background: #f1d2b5;
+    background: -webkit-linear-gradient(to bottom, #e9dbb0, #afafad);
+    background: linear-gradient(to bottom, #e9dbb0, #afafad);
+}
+
+
+h1 {
+
+    font-weight: Bold;
+}
+
+
+h3 {
+
+    font-weight: Bold;
+}
+
+
+.frame-1 {
+    background-color: #d4c88f;
+}
+
+
+.frame-2 {
+    background-color: #c9c095;
+}
+
+.highlights {
+    font-family: 'Bitter', serif;
+}
+
+
+.caption {
+    font-style: italic;
+    font-family: 'Bitter', serif;
+}
+
+cite {
+    color: rgb(51, 50, 50);
+}
+
+#about-this-page-div {
+    padding-top: 40px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    color: #afafad;
+}
+
+.page-made {
+    text-align: left;
+}
+
+.page-made h4 {
+    color: rgb(202, 176, 137);
+}
+
+.soc-buttons {
+    text-align: right;
+}
